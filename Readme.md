@@ -1,3 +1,5 @@
-# Still Learning the ropes
+# Spring Cleaning
 
-This repository (albeit fairly disordered presently) will contain some of the practice projects I have worked on. This will include smaller projects and coding practice done from a few subreddits.
+While I am restructuring my entire Git-Hub repository, I will be cleaning out all the old files.
+Through this process I will be recalling what I had done as well as reviewing previous understandings.
+In doing so I hope to create a cleaner code base.
